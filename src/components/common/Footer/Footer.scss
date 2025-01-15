@@ -8,7 +8,7 @@
     margin: 0 auto;
     padding: 0 20px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); /* Varsayılan: 3 sütun */
     gap: 2rem;
   }
 
@@ -44,5 +44,21 @@
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     text-align: center;
     font-size: 0.9rem;
+  }
+
+  /* Responsive Ayarlamalar */
+  @media (max-width: 768px) {
+    &__container {
+      grid-template-columns: 1fr; /* 3 sütun yerine tek sütun */
+      text-align: center; /* Ortalanmış içerik */
+    }
+
+    &__section {
+      margin-bottom: 1.5rem; /* Bölümler arasına boşluk ekle */
+    }
+
+    &__bottom {
+      font-size: 0.8rem; /* Daha küçük font boyutu */
+    }
   }
 }
