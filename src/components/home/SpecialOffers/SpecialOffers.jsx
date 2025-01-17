@@ -35,21 +35,21 @@ const SpecialOffers = () => {
                   <span className="icon">📞</span>
                   <div className="contact-details">
                     <span className="label">Müşteri Hizmetleri</span>
-                    <span className="value">0850 XXX XX XX</span>
+                    <span className="value">0544 227 56 25</span>
                   </div>
                 </div>
                 <div className="contact-item">
                   <span className="icon">📱</span>
                   <div className="contact-details">
                     <span className="label">WhatsApp Hattı</span>
-                    <span className="value">0532 XXX XX XX</span>
+                    <span className="value">0544 227 56 25</span>
                   </div>
                 </div>
                 <div className="contact-item">
                   <span className="icon">📧</span>
                   <div className="contact-details">
                     <span className="label">E-posta</span>
-                    <span className="value">info@yapimarket.com</span>
+                    <span className="value">info@karakasyapipazarlama.com</span>
                   </div>
                 </div>
               </div>

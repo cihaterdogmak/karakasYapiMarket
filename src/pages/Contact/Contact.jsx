@@ -2,7 +2,7 @@ import React from "react";
 import "./Contact.scss";
 
 const Contact = () => {
-  const emailAddress = "yusufkrks97@gmail.com";
+  const emailAddress = "info@karakasyapipazarlama.com";
   const emailSubject = "Yapı Market Ürün Bilgi Talebi";
   const emailBody = `Merhaba,
 
@@ -30,13 +30,13 @@ Teşekkürler.`;
     {
       icon: "📞",
       title: "Telefon",
-      content: "+90 545 236 24 56",
-      link: "tel:+905452362456",
+      content: "+90 544 227 56 25",
+      link: "tel:+905442275625",
     },
     {
       icon: "📧",
       title: "E-posta",
-      content: "yusufkrks97@gmail.com",
+      content: "info@karakasyapipazarlama.com",
       link: gmailLink,
     },
   ];

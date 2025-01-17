@@ -32,9 +32,9 @@ const Footer = () => {
         <div className="footer__section">
           <h4>İletişim</h4>
           <ul>
-            <li>Telefon: +90 555 555 5555</li>
-            <li>E-posta: destek@yapimalzemeleri.com</li>
-            <li>Adres: [Şirket Adresi]</li>
+            <li>Telefon: +90 544 227 56 25</li>
+            <li>E-posta: info@karakasyapipazarlama.com</li>
+            <li>Adres: Kadıkendi Mahallesi Ayakkabıcılar Sitesi Şanlıurfa</li>
           </ul>
         </div>
       </div>

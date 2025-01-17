@@ -268,7 +268,6 @@ export const sections = {
           description:
             "Sıva alçısı, saten alçı ve kartonpiyer alçısı alımı yapılmaktadır",
           requirements: [
-            "Minimum 1000 torba",
             "TSE belgeli ürünler",
             "Fabrika çıkışlı",
             "Toptan fiyat avantajı",
@@ -286,7 +285,6 @@ export const sections = {
           description:
             "Portland çimento, beyaz çimento ve özel çimento alımı yapılmaktadır",
           requirements: [
-            "Minimum 2000 torba",
             "TSE ve CE belgeli",
             "Direkt fabrika sevkiyatı",
             "Uygun ödeme koşulları",
@@ -304,7 +302,6 @@ export const sections = {
           description:
             "Laminant parke, ahşap parke ve vinil parke alımı yapılmaktadır",
           requirements: [
-            "Minimum 1000 m²",
             "AC4 ve üzeri sınıf",
             "Garanti belgeli",
             "Toptan fiyatlandırma",
@@ -322,7 +319,6 @@ export const sections = {
           description:
             "Amerikan panel kapı, çelik kapı ve oda kapısı alımı yapılmaktadır",
           requirements: [
-            "Minimum 50 adet",
             "Garanti belgeli",
             "TSE standartlarına uygun",
             "Toptan fiyat avantajı",
@@ -358,7 +354,6 @@ export const sections = {
           description:
             "İç cephe, dış cephe ve özel boyalar alımı yapılmaktadır",
           requirements: [
-            "Minimum 1000 kg",
             "TSE belgeli",
             "Su bazlı ürünler",
             "Toptan fiyatlandırma",
